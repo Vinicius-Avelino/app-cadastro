@@ -1,0 +1,13 @@
+D:\Projetos\Bootcamp_inter\DigitalInnovationOne\app-cadastro\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.exe
+D:\Projetos\Bootcamp_inter\DigitalInnovationOne\app-cadastro\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.deps.json
+D:\Projetos\Bootcamp_inter\DigitalInnovationOne\app-cadastro\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.runtimeconfig.json
+D:\Projetos\Bootcamp_inter\DigitalInnovationOne\app-cadastro\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.runtimeconfig.dev.json
+D:\Projetos\Bootcamp_inter\DigitalInnovationOne\app-cadastro\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.dll
+D:\Projetos\Bootcamp_inter\DigitalInnovationOne\app-cadastro\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.pdb
+D:\Projetos\Bootcamp_inter\DigitalInnovationOne\app-cadastro\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.csprojAssemblyReference.cache
+D:\Projetos\Bootcamp_inter\DigitalInnovationOne\app-cadastro\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.AssemblyInfoInputs.cache
+D:\Projetos\Bootcamp_inter\DigitalInnovationOne\app-cadastro\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.AssemblyInfo.cs
+D:\Projetos\Bootcamp_inter\DigitalInnovationOne\app-cadastro\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.csproj.CoreCompileInputs.cache
+D:\Projetos\Bootcamp_inter\DigitalInnovationOne\app-cadastro\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.dll
+D:\Projetos\Bootcamp_inter\DigitalInnovationOne\app-cadastro\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.pdb
+D:\Projetos\Bootcamp_inter\DigitalInnovationOne\app-cadastro\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.genruntimeconfig.cache
